@@ -1,3 +1,4 @@
+section{padding: 120px 0;}
 .main-container, .nav-container, .footer-container, nav, nav.fixed, .callout{max-width:none;}
 nav .logo{max-height: 40px;}
 nav a{color: #c6c6c6;font-size: 16px;}
