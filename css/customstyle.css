@@ -1,0 +1,17 @@
+.main-container, .nav-container, .footer-container, nav, nav.fixed, .callout{max-width:none;}
+nav .logo{max-height: 40px;}
+nav a{color: #c6c6c6;font-size: 16px;}
+nav ul li{margin-right: 0}
+.nav-1 .logo {margin-top: 17px;}
+.nav-1.shrink .logo {margin-top: 9px;}
+.btn-email{border-radius:0;border-radius:4px;color: #fff;font-weight: 500 !important;font-size: 18px;}
+
+.text-center{text-align: center!important;}
+.features-4 h4{color: #777;line-height: 50px;}
+
+
+
+@media (max-width: 768px){
+	.btn-email{width: 100%}
+}
+
