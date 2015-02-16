@@ -10,7 +10,7 @@ nav ul li{margin-right: 0}
 .text-center{text-align: center!important;}
 .features-4 h4{color: #777;line-height: 50px;}
 
-
+.hidden{display: none;}
 
 @media (max-width: 768px){
 	.btn-email{width: 100%}
