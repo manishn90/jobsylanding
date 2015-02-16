@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://jobsy.io/</loc>
+  <lastmod>2015-02-14T11:07:20+00:00</lastmod>
+</url>
+<url>
+  <loc>http://jobsy.io/index.html</loc>
+  <lastmod>2015-02-14T11:07:20+00:00</lastmod>
+</url>
+<url>
+  <loc>http://jobsy.io/detail.html</loc>
+  <lastmod>2015-02-14T11:07:21+00:00</lastmod>
+</url>
+<url>
+  <loc>http://jobsy.io/termsofservice.html</loc>
+  <lastmod>2015-02-13T18:50:34+00:00</lastmod>
+</url>
+<url>
+  <loc>http://jobsy.io/privacypolicy.html</loc>
+  <lastmod>2015-02-13T18:49:33+00:00</lastmod>
+</url>
+</urlset>
