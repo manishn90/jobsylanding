@@ -10,7 +10,8 @@ nav ul li{margin-right: 0}
 .text-center{text-align: center!important;}
 .features-4 h4{color: #777;line-height: 50px;}
 
-
+.btn-forum{line-height: 24px;padding: 0 26px;margin: 0 10px;font-size: 18px;border-radius: 0;height: auto!important;margin-top: 0px!important;}
+nav.shrink .btn{height: auto;margin-top: 0px;line-height: 24px;}
 
 @media (max-width: 768px){
 	.btn-email{width: 100%}
